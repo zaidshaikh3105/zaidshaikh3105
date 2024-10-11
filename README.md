@@ -1,11 +1,5 @@
 # 👋 Hi, I'm Zaid Shaikh!
-
-📍 **Location**: India  
-✉️ **Email**: [zaidshaikh740@gmail.com](mailto:zaidshaikh740@gmail.com)  
-🔗 **Links**: [Portfolio](https://zaid-shaikh.netlify.app/) | [GitHub](https://github.com/zaidshaikh3105) | [LinkedIn](https://www.linkedin.com/in/zaids31/)  
-
----
-
+-----------
 ## 👨‍💻 About Me
 I’m an aspiring **Software Engineer** with hands-on experience in web and mobile development using technologies like **React.js** and **Node.js**. I’ve worked on diverse projects, from building e-commerce platforms to developing user-friendly apps, and I’m eager to bring this experience into a full-time software engineering role.
 
@@ -83,6 +77,11 @@ A virtual classroom platform designed to create seamless communication, resource
 - [Introduction to IT & Cybersecurity](#) | Cybrary
 - [12 Factor App](#) | KodeKloud
 - [Google Cybersecurity Professional Certificate](#) | Coursera
+
+---
+📍 **Location**: India  
+✉️ **Email**: [zaidshaikh740@gmail.com](mailto:zaidshaikh740@gmail.com)  
+🔗 **Links**: [Portfolio](https://zaid-shaikh.netlify.app/) | [GitHub](https://github.com/zaidshaikh3105) | [LinkedIn](https://www.linkedin.com/in/zaids31/)  
 
 ---
 
