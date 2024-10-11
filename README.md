@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Zaid Shaikh!
------------
+
 ## 👨‍💻 About Me
 I’m an aspiring **Software Engineer** with hands-on experience in web and mobile development using technologies like **React.js** and **Node.js**. I’ve worked on diverse projects, from building e-commerce platforms to developing user-friendly apps, and I’m eager to bring this experience into a full-time software engineering role.
 
