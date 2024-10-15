@@ -1,13 +1,11 @@
 # 👋 Hi, I'm Zaid Shaikh!
 
 ## 👨‍💻 About Me
-I’m an aspiring **Software Engineer** with hands-on experience in web and mobile development using technologies like **React.js** and **Node.js**. I’ve worked on diverse projects, from building e-commerce platforms to developing user-friendly apps, and I’m eager to bring this experience into a full-time software engineering role.
+I am an aspiring **Software Engineer** with hands-on experience in web and mobile development using technologies like React.js and Node.js. My professional journey has seen me contribute to diverse personal projects, including developing user-friendly applications. I’m eager to translate this experience into a full-time role.
 
-At **Cognizant Technology Solutions**, I played a key role in supporting critical applications and improving system stability, which sharpened my problem-solving skills and deepened my understanding of IT infrastructure.
+Currently, as a Freelance Web Developer, I am dedicated to continual learning and application of new technologies to deliver efficient, scalable solutions. 
 
-Currently, as a **Freelance Web Developer**, I’m continually learning and applying new technologies to deliver efficient, scalable solutions.
-
-I’m excited to take the next step in my career and contribute my passion for coding and problem-solving to a team focused on innovation and growth. Let’s connect!
+I am looking forward to taking the next step in my career and bringing my passion for coding and problem-solving to a team focused on innovation and growth
 
 ---
 
