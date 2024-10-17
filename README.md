@@ -79,7 +79,7 @@ A virtual classroom platform designed to create seamless communication, resource
 ---
 📍 **Location**: India  
 ✉️ **Email**: [zaidshaikh740@gmail.com](mailto:zaidshaikh740@gmail.com)  
-🔗 **Links**: [Portfolio](https://zaid-shaikh.netlify.app/) | [GitHub](https://github.com/zaidshaikh3105) | [LinkedIn](https://www.linkedin.com/in/zaids31/)  
+🔗 **Links**: [Portfolio](https://zaid-shaikh.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/zaids31/)  
 
 ---
 
